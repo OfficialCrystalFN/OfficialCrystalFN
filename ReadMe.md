@@ -1,7 +1,3 @@
-Certainly! Here's a remake of your **Crystal FN** README with actual Fortnite icons integrated for a more authentic and polished look. I'll use emoji-style representations of Fortnite's classic icons like the "level" icon, "star" for Battle Pass, and others. Since actual images/icons can be linked externally, I'll use available Fortnite-related emojis where possible.
-
----
-
 # Crystal FN
 
 Welcome to **Crystal FN**! A private server to relive the glory days of **OG Fortnite** Seasons with your friends. Whether you’re looking to dive back into the Battle Royale action or simply relive some nostalgia, this server is your go-to place for all things Fortnite. 🎮💎
