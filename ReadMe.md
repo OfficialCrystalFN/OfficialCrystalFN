@@ -63,7 +63,7 @@ Yes! You can jump into the game solo, but it’s always more fun with friends!
 Currently, **Crystal FN** is available for PC users, but we are working on expanding to other platforms. Stay tuned for updates!
 
 ### 3. **How do I report bugs or issues?**
-If you encounter any issues, please open an issue in this repo or contact us directly on [Discord](https://discord.gg/your-server-link).
+If you encounter any issues, please open an issue in this repo or contact us directly on [Discord](https://discord.gg/49mqN2guPf).
 
 ---
 
